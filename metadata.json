@@ -1,0 +1,5 @@
+{
+  "name": "DomainFinder AI",
+  "description": "A smart utility that uses Google Gemini to deduce company website domains based on company name, industry, and location.",
+  "requestFramePermissions": []
+}
